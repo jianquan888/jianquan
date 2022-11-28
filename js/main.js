@@ -161,18 +161,18 @@ $(function() {
                 box_shadow: '#00A0E9',
                 icon: 'img/true.png',
             }, {
-                name: '建全豌豆影视',
+                name: '豌豆影视',
                 link: 'https://www.wandou.pro/',
                 box_shadow: '#F57923',
-                icon: 'img/mi.png',
+                icon: 'img/douban.png',
             }
               , {
                 name: '蛋蛋影视',
                 link: 'https://www.dandanzan10.top/',
                 box_shadow: '#F57923',
-                icon: 'img/coolapk.png',
+                icon: 'img/mi.png',
             }, {
-                name: '追影猫影视',
+                name: '追影猫视',
                 link: 'https://zhuiyingmao.com/',
                 box_shadow: '#F57923',
                 icon: 'img/csdn.png',
