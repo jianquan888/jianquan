@@ -160,7 +160,24 @@ $(function() {
                 link: 'https://xindizhi.github.io/waipian/',
                 box_shadow: '#00A0E9',
                 icon: 'img/true.png',
-            }]
+            }, {
+                name: '建全豌豆影视',
+                link: 'https://www.wandou.pro/',
+                box_shadow: '#F57923',
+                icon: 'img/mi.png',
+            }
+              , {
+                name: '蛋蛋影视',
+                link: 'https://www.dandanzan10.top/',
+                box_shadow: '#F57923',
+                icon: 'img/coolapk.png',
+            }, {
+                name: '追影猫影视',
+                link: 'https://zhuiyingmao.com/',
+                box_shadow: '#F57923',
+                icon: 'img/csdn.png',
+            }
+                  ]
         }
         for (var i = 0; i < bookmark.data.length; i++) {
             if (bookmark.data[i].name == 'Via插件') {
