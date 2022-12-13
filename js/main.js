@@ -86,6 +86,11 @@ $(function() {
                 box_shadow: '#11B063',
                 icon: 'img/coolapk.png',
             }, {
+                name: '建全豆影',
+                link: 'https://www.wandou.pro/',
+                box_shadow: '#11B063',
+                icon: 'img/douban.png',
+            }, {
                 name: '歪片影视',
                 link: 'https://waipian6.com/',
                 box_shadow: '#FA7199',
@@ -114,7 +119,7 @@ $(function() {
                 name: '五扁影视',
                 link: 'https://www.555pian.com/',
                 box_shadow: '#37bf4c',
-                icon: 'img/douban.png',
+                icon: 'img/true.png',
             }, {
                 name: '电影淘淘',
                 link: 'https://www.dianyingtaotao.com/',
@@ -176,6 +181,12 @@ $(function() {
                 link: 'https://zhuiyingmao.com/',
                 box_shadow: '#F57923',
                 icon: 'img/csdn.png',
+            }
+                   , {
+                name: '稀饭影视',
+                link: 'https://www.xifanys.com/',
+                box_shadow: '#F57923',
+                icon: 'img/ding.png',
             }
                   ]
         }
