@@ -76,7 +76,7 @@ $(function() {
                 icon: 'img/log.png',
             }, {
                 name: '三五影视',
-                link: 'https://55dy7.vip/',
+                link: 'https://www.555pian.com/',
                 box_shadow: '#11B063',
                 icon: 'img/coolapk.png',
             }, {
