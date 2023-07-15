@@ -86,33 +86,33 @@ $(function() {
                 box_shadow: '#11B063',
                 icon: 'img/coolapk.png',
             }, {
-                name: '建全豆影',
-                link: 'https://www.wandou.pro/',
+                name: '建全影仓',
+                link: 'https://search.ymck.me/',
                 box_shadow: '#11B063',
                 icon: 'img/douban.png',
             }, {
-                name: '歪片影视',
-                link: 'https://waipian6.com/',
+                name: '热播影视',
+                link: 'https://rebozj.pro/',
                 box_shadow: '#FA7199',
                 icon: 'img/via.png',
             }, {
-                name: '追剧热榜',
+                name: '追剧兔热榜',
                 link: 'https://www.zjtu.cc/',
                 box_shadow: '#F2584A',
                 icon: 'img/headline.png',
             }, {
-                name: '天空影视',
-                link: 'https://tkznp.com/',
+                name: '富丽影视',
+                link: 'https://www.freeok.vip/',
                 box_shadow: '#0078D8',
                 icon: 'img/zhihulogo.png',
             }, {
-                name: '霹雳影视',
-                link: 'https://plyingshi.com/',
+                name: '臭蛋影视',
+                link: 'https://cddys.vip/,
                 box_shadow: '#F57923',
                 icon: 'img/mi.png',
             }, {
                 name: '影视全录',
-                link: 'https://quanyingshi.com/',
+                link: 'https://www.hdmoli.com/',
                 box_shadow: '#2C2C2C',
                 icon: 'img/unsplash.png',
             }, {
@@ -126,8 +126,8 @@ $(function() {
                 box_shadow: '#c01d2f',
                 icon: 'img/hupu.png',
             }, {
-                name: '皮皮影视',
-                link: 'https://www.pp6.xyz/',
+                name: '追影猫影视',
+                link: 'https://zhuiyingmao2.com/',
                 box_shadow: '#fe7700',
                 icon: 'img/douyu.png',
             }, {
@@ -166,19 +166,19 @@ $(function() {
                 box_shadow: '#00A0E9',
                 icon: 'img/true.png',
             }, {
-                name: '豌豆影视',
-                link: 'https://www.wandou.pro/',
+                name: '建全聚合影视',
+                link: 'https://www.juheyingshi.com/',
                 box_shadow: '#F57923',
                 icon: 'img/douban.png',
             }
               , {
-                name: '蛋蛋影视',
-                link: 'https://www.dandanzan10.top/',
+                name: '茶杯虎搜影',
+                link: 'https://www.725998.com/yingku-list/1-0-0-0-0-0-0.html',
                 box_shadow: '#F57923',
                 icon: 'img/mi.png',
             }, {
-                name: '追影猫视',
-                link: 'https://zhuiyingmao.com/',
+                name: '追影XMONe视',
+                link: 'https://www.xmxone.cn/',
                 box_shadow: '#F57923',
                 icon: 'img/csdn.png',
             }
