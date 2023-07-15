@@ -101,7 +101,7 @@ $(function() {
                 icon: 'img/zhihulogo.png',
             }, {
                 name: '臭蛋影视',
-                link: 'https://cddys.vip/,
+                link: 'https://cddys.vip/',
                 box_shadow: '#F57923',
                 icon: 'img/mi.png',
             }, {
