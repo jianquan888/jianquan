@@ -80,8 +80,8 @@ $(function() {
                 box_shadow: '#11B063',
                 icon: 'img/coolapk.png',
             }, {
-                name: '建全影仓',
-                link: 'https://search.ymck.me/',
+                name: '建全五影',
+                link: 'https://55dy9.vip/',
                 box_shadow: '#11B063',
                 icon: 'img/douban.png',
             }, {
@@ -90,7 +90,7 @@ $(function() {
                 box_shadow: '#FA7199',
                 icon: 'img/via.png',
             }, {
-                name: '追剧兔热榜',
+                name: '剧兔热榜',
                 link: 'https://www.zjtu.cc/',
                 box_shadow: '#F2584A',
                 icon: 'img/headline.png',
@@ -120,7 +120,7 @@ $(function() {
                 box_shadow: '#c01d2f',
                 icon: 'img/hupu.png',
             }, {
-                name: '追影猫影视',
+                name: '追猫影视',
                 link: 'https://zhuiyingmao2.com/',
                 box_shadow: '#fe7700',
                 icon: 'img/douyu.png',
@@ -160,18 +160,18 @@ $(function() {
                 box_shadow: '#00A0E9',
                 icon: 'img/true.png',
             }, {
-                name: '建全聚合影视',
+                name: '建全聚影',
                 link: 'https://www.juheyingshi.com/',
                 box_shadow: '#F57923',
                 icon: 'img/douban.png',
             }
               , {
-                name: '茶杯虎搜影',
+                name: '茶杯搜影',
                 link: 'https://www.725998.com/yingku-list/1-0-0-0-0-0-0.html',
                 box_shadow: '#F57923',
                 icon: 'img/mi.png',
             }, {
-                name: '追影XMONe视',
+                name: '追影X视',
                 link: 'https://www.xmxone.cn/',
                 box_shadow: '#F57923',
                 icon: 'img/csdn.png',
