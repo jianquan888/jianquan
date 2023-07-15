@@ -76,7 +76,7 @@ $(function() {
                 icon: 'img/log.png',
             }, {
                 name: '三五影视',
-                link: 'https://www.555dd2.com/',
+                link: 'https://55dy7.vip/',
                 box_shadow: '#11B063',
                 icon: 'img/coolapk.png',
             }, {
